@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "React context example",
+  "name": "React redux example",
   "icons": [
     {
       "src": "posts.ico",
